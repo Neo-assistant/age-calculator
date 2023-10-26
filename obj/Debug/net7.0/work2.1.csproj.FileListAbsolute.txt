@@ -1,0 +1,28 @@
+D:\Temur.dev\homework\basic ketma ketlik\work2.1\obj\Debug\net7.0\work2.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temur.dev\homework\basic ketma ketlik\work2.1\obj\Debug\net7.0\work2.1.AssemblyInfoInputs.cache
+D:\Temur.dev\homework\basic ketma ketlik\work2.1\obj\Debug\net7.0\work2.1.AssemblyInfo.cs
+D:\Temur.dev\homework\basic ketma ketlik\work2.1\obj\Debug\net7.0\work2.1.csproj.CoreCompileInputs.cache
+D:\Temur.dev\homework\basic ketma ketlik\work2.1\bin\Debug\net7.0\work2.1.exe
+D:\Temur.dev\homework\basic ketma ketlik\work2.1\bin\Debug\net7.0\work2.1.deps.json
+D:\Temur.dev\homework\basic ketma ketlik\work2.1\bin\Debug\net7.0\work2.1.runtimeconfig.json
+D:\Temur.dev\homework\basic ketma ketlik\work2.1\bin\Debug\net7.0\work2.1.dll
+D:\Temur.dev\homework\basic ketma ketlik\work2.1\bin\Debug\net7.0\work2.1.pdb
+D:\Temur.dev\homework\basic ketma ketlik\work2.1\obj\Debug\net7.0\work2.1.dll
+D:\Temur.dev\homework\basic ketma ketlik\work2.1\obj\Debug\net7.0\refint\work2.1.dll
+D:\Temur.dev\homework\basic ketma ketlik\work2.1\obj\Debug\net7.0\work2.1.pdb
+D:\Temur.dev\homework\basic ketma ketlik\work2.1\obj\Debug\net7.0\work2.1.genruntimeconfig.cache
+D:\Temur.dev\homework\basic ketma ketlik\work2.1\obj\Debug\net7.0\ref\work2.1.dll
+C:\Users\ASUS\Desktop\work2.1\bin\Debug\net7.0\work2.1.exe
+C:\Users\ASUS\Desktop\work2.1\bin\Debug\net7.0\work2.1.deps.json
+C:\Users\ASUS\Desktop\work2.1\bin\Debug\net7.0\work2.1.runtimeconfig.json
+C:\Users\ASUS\Desktop\work2.1\bin\Debug\net7.0\work2.1.dll
+C:\Users\ASUS\Desktop\work2.1\bin\Debug\net7.0\work2.1.pdb
+C:\Users\ASUS\Desktop\work2.1\obj\Debug\net7.0\work2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\work2.1\obj\Debug\net7.0\work2.1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\work2.1\obj\Debug\net7.0\work2.1.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\work2.1\obj\Debug\net7.0\work2.1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\work2.1\obj\Debug\net7.0\work2.1.dll
+C:\Users\ASUS\Desktop\work2.1\obj\Debug\net7.0\refint\work2.1.dll
+C:\Users\ASUS\Desktop\work2.1\obj\Debug\net7.0\work2.1.pdb
+C:\Users\ASUS\Desktop\work2.1\obj\Debug\net7.0\work2.1.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\work2.1\obj\Debug\net7.0\ref\work2.1.dll
